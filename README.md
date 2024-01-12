@@ -15,7 +15,6 @@
 ## Таблица
 
 ![image](https://github.com/IlyaDenisov88/vukha_azure/assets/113009175/26dabdc7-1a5a-40ec-90fa-4a5a0f72fac7)
-
 ![image](https://github.com/IlyaDenisov88/vukha_azure/assets/113009175/97938060-d8dc-409b-aaa5-d2ad1b4c6eaa)
 
 

@@ -14,6 +14,9 @@
 
 ## Таблица
 
+![image](https://github.com/IlyaDenisov88/vukha_azure/assets/113009175/73c038c9-7107-4a4e-b3d7-e04d52a74c57)
+![image](https://github.com/IlyaDenisov88/vukha_azure/assets/113009175/97938060-d8dc-409b-aaa5-d2ad1b4c6eaa)
+
 
 ## Описание сервисов Azure
 1. **Azure SQL Database** - это сервис для создания, хранения, использования и масштабирования реляционных баз данных в облаке. Предоставляет функциональность для различных сценариев синхронизации данных.
